@@ -1,8 +1,8 @@
 import tkinter as tk
 import numpy as np
 
-L1 = [10, 9, 9, 10, 11]
-L2 = [9, 10, 11, 10, 10]
+L1 = [50, 49, 49, 50, 51]
+L2 = [49, 50, 51, 50, 50]
 
 
 class App(tk.Tk):
