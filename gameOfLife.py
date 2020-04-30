@@ -36,7 +36,7 @@ class App(tk.Tk):
         if self.delay < 1000:
             self.delay = 60000
         else:
-            self.delay = 0
+            self.delay = 200
             self.redraw()
 
     def change(self):
